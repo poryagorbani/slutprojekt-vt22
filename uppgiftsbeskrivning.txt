@@ -1,0 +1,3 @@
+Jag ska göra en valuta kalkylator där man kan skriva in mängden av en valuta och få ut värdet av den första valutan konverterat till en annan valuta.
+Jag ska använda mig av HTML, SCSS, Javascript där jag kommer göra projektet främst med API'er för att kunna få fram valutornas värde.
+Vecka 17 ska jag börja på projektet med att planera hur det ska se ut, vecka 18 ska jag ha en klar ide över hur mitt projekt ska se ut och börja med produktionsdelen, vecka 19 ska jag göra majoriteten av arbetet genom kodning, vecka 20 ska jag vara klar med arbetet och redovisa den inför gruppen.
